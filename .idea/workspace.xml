@@ -67,7 +67,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="36" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.7045045" vertical-offset="0" max-vertical-offset="816">
+            <state line="28" column="0" selection-start="1377" selection-end="1377" vertical-scroll-proportion="0.8576577" vertical-offset="0" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
@@ -115,9 +115,9 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/config.ru" />
       </list>
     </option>
   </component>
@@ -410,12 +410,12 @@
       <changelist id="673d68a1-c11b-44f2-be18-77fe4bcad906" name="Default" comment="" />
       <created>1394653546148</created>
       <updated>1394653546148</updated>
-      <workItem from="1394653908127" duration="3911000" />
+      <workItem from="1394653908127" duration="4072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3911000" />
+    <option name="totallyTimeSpent" value="4072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1357" height="728" extended-state="0" />
@@ -520,6 +520,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="1" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.ru">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -530,16 +537,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="36" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.7045045" vertical-offset="0" max-vertical-offset="816">
+        <state line="28" column="0" selection-start="1377" selection-end="1377" vertical-scroll-proportion="0.8576577" vertical-offset="0" max-vertical-offset="816">
           <folding />
         </state>
       </provider>
